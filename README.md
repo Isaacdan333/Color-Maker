@@ -1,7 +1,7 @@
 # Android App: Color Maker
 
-Software: Android Studio
-Language: Kotlin
+* Software: Android Studio
+* Language: Kotlin
 
 # My Information
 
