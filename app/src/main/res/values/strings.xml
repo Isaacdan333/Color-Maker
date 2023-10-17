@@ -1,0 +1,13 @@
+<!-- Name: Isaac Perez
+     CWID: 887277002
+     Email: isaacdan@csu.fullerton.edu
+-->
+<resources>
+    <string name="app_name">ColorApp</string>
+    <string name="coloroff">Off</string>
+    <string name="resetbutton">Reset</string>
+    <string name="redText">0.00</string>
+    <string name="greenText">0.00</string>
+    <string name="blueText">0.00</string>
+    <string name="colorHint">Accepts values from 0 – 1</string>
+</resources>
